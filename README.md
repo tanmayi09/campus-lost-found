@@ -47,9 +47,9 @@ The application is deployed online and uses a database to persist reports and cl
 
 ## Live Application
 
-- **Frontend:** YOUR_VERCEL_URL
+- **Frontend:** https://campus-lost-found-tan-eight.vercel.app/
 - **Backend:** https://campusfind-api-far2.onrender.com
-- **GitHub Repository:** https://github.com/YOUR_GITHUB_USERNAME/campus-lost-found
+- **GitHub Repository:** https://github.com/tanmayi09/campus-lost-found
 
 ## Project Structure
 
